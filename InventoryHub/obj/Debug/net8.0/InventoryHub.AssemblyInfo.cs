@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InventoryHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54f4406b669f500d0ac28d828a81f2e580f8ff3a")]
 [assembly: System.Reflection.AssemblyProductAttribute("InventoryHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InventoryHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

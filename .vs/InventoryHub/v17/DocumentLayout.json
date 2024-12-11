@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|c:\\users\\johnwalshe\\source\\repos\\inventoryhub\\inventoryhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|solutionrelative:inventoryhub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|c:\\users\\johnwalshe\\source\\repos\\inventoryhub\\inventoryhub\\discountedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|solutionrelative:inventoryhub\\discountedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|c:\\users\\johnwalshe\\source\\repos\\inventoryhub\\inventoryhub\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|solutionrelative:inventoryhub\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|c:\\users\\johnwalshe\\source\\repos\\inventoryhub\\inventoryhub\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|solutionrelative:inventoryhub\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|c:\\users\\johnwalshe\\source\\repos\\inventoryhub\\inventoryhub\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|solutionrelative:inventoryhub\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|c:\\users\\johnwalshe\\source\\repos\\inventoryhub\\inventoryhub\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB16B76-3CA0-4BAE-AE15-661B035F665C}|InventoryHub\\InventoryHub.csproj|solutionrelative:inventoryhub\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryHub\\Program.cs",
+              "ToolTip": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Program.cs",
+              "RelativeToolTip": "InventoryHub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:19:36.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\DiscountedProduct.cs",
+              "RelativeDocumentMoniker": "InventoryHub\\DiscountedProduct.cs",
+              "ToolTip": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\DiscountedProduct.cs",
+              "RelativeToolTip": "InventoryHub\\DiscountedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:17:15.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Repository.cs",
+              "RelativeDocumentMoniker": "InventoryHub\\Repository.cs",
+              "ToolTip": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Repository.cs",
+              "RelativeToolTip": "InventoryHub\\Repository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:32:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Customer.cs",
+              "RelativeDocumentMoniker": "InventoryHub\\Customer.cs",
+              "ToolTip": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Customer.cs",
+              "RelativeToolTip": "InventoryHub\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:30:15.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryHub\\Product.cs",
+              "ToolTip": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\Product.cs",
+              "RelativeToolTip": "InventoryHub\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:29:43.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\IEntity.cs",
+              "RelativeDocumentMoniker": "InventoryHub\\IEntity.cs",
+              "ToolTip": "C:\\Users\\johnwalshe\\source\\repos\\InventoryHub\\InventoryHub\\IEntity.cs",
+              "RelativeToolTip": "InventoryHub\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:27:51.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
